@@ -9,7 +9,7 @@
  * @package		Authy_ci
  * @author		Matt Williams
  * @version		1.0.0
- * @license		MIT License Copyright (c) 2008 Erick Hartanto
+ * @license		MIT License Copyright (c) 2013 Matt Williams
  */
 
 class Authy
